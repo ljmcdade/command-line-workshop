@@ -1,0 +1,23 @@
+files-with-javascript-numbers.txt:.git/logs/HEAD:10:870c5459b53150295d80c7833568aa5749149786 591508dc35dae4b4431e584e2783c737c0beba4e ljmcdade <ljmcdade@gmail.com> 1447357219 +0000	commit: files-with-javascript.txt
+files-with-javascript-numbers.txt:.git/logs/refs/heads/finding-content:2:870c5459b53150295d80c7833568aa5749149786 591508dc35dae4b4431e584e2783c737c0beba4e ljmcdade <ljmcdade@gmail.com> 1447357219 +0000	commit: files-with-javascript.txt
+files-with-javascript-numbers.txt:.git/COMMIT_EDITMSG:1:files-with-javascript.txt
+files-with-javascript-numbers.txt:files-with-javascript.txt:1:README.md: * Find all the files in the DecodeMTL project that contain the word "javascript"
+files-with-javascript-numbers.txt:files-with-javascript.txt:2:README.md: * Take the output of the command to a file called `files-with-javascript.txt`
+files-with-javascript-numbers.txt:files-with-javascript.txt:3:README.md: * Take the output of the command to a file called `files-with-javascript-numbers.txt`
+files-with-javascript-numbers.txt:files-with-javascript.txt:4:README.md: * Take the output of that new command to a file called `filenames-with-javascript.txt`
+files-with-javascript-numbers.txt:README.md:27: * Find all the files in the DecodeMTL project that contain the word "javascript"
+files-with-javascript-numbers.txt:README.md:28: * Take the output of the command to a file called `files-with-javascript.txt`
+files-with-javascript-numbers.txt:README.md:31: * Take the output of the command to a file called `files-with-javascript-numbers.txt`
+files-with-javascript-numbers.txt:README.md:33: * Take the output of that new command to a file called `filenames-with-javascript.txt`
+Binary file .git/index matches
+.git/logs/HEAD:870c5459b53150295d80c7833568aa5749149786 591508dc35dae4b4431e584e2783c737c0beba4e ljmcdade <ljmcdade@gmail.com> 1447357219 +0000	commit: files-with-javascript.txt
+.git/logs/refs/heads/finding-content:870c5459b53150295d80c7833568aa5749149786 591508dc35dae4b4431e584e2783c737c0beba4e ljmcdade <ljmcdade@gmail.com> 1447357219 +0000	commit: files-with-javascript.txt
+.git/COMMIT_EDITMSG:files-with-javascript.txt
+files-with-javascript.txt:README.md: * Find all the files in the DecodeMTL project that contain the word "javascript"
+files-with-javascript.txt:README.md: * Take the output of the command to a file called `files-with-javascript.txt`
+files-with-javascript.txt:README.md: * Take the output of the command to a file called `files-with-javascript-numbers.txt`
+files-with-javascript.txt:README.md: * Take the output of that new command to a file called `filenames-with-javascript.txt`
+README.md: * Find all the files in the DecodeMTL project that contain the word "javascript"
+README.md: * Take the output of the command to a file called `files-with-javascript.txt`
+README.md: * Take the output of the command to a file called `files-with-javascript-numbers.txt`
+README.md: * Take the output of that new command to a file called `filenames-with-javascript.txt`
