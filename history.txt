@@ -1,0 +1,7 @@
+    1  cd ..
+    2  pwd
+    3  git clone https://github.com/DecodeMTL/command-line-workshop.git
+    4  ls -l
+    5  cd command-line-workshop
+    6  git checkout -b cmd-history
+    7  history > history.txt
