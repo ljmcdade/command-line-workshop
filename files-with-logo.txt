@@ -1,1 +1,4 @@
+./.c9/metadata/workspace/files-with-logo.txt
+./decodemtl/src/assets/images/decodemtl-logo-black.png
+./decodemtl/src/assets/images/decodemtl-logo-white.png
 ./files-with-logo.txt
