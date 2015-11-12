@@ -1,0 +1,5 @@
+    1  git branch -b cmd-history
+    2  git branch cmd-history
+    3  git checkout -b cmd-history
+    4  nano history.txt
+    5  history > history.txt
